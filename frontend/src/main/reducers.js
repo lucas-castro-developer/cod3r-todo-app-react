@@ -1,10 +1,10 @@
 import { combineReducers } from "redux";
 
-const rootReducer = {
+const rootReducer = combineReducers({
   todo: () => ({
     description: "Ler livro",
     list:
-      ({
+      [{
         _id: 1,
         description: "Pagar fatura do cartão",
         done: true,
@@ -18,8 +18,8 @@ const rootReducer = {
         _id: 3,
         description: "Consultas médicas na terça depois do almoço",
         done: false,
-      }),
+      }],
   }),
-};
+});
 
-export default rootReducer
+export default rootReducer;
