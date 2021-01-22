@@ -80,42 +80,42 @@ Para mais informações, [acesse a documentação](https://www.mongodb.com/2)
 ### Instalação
 
 1. Clone o repositório
-   ```sh
-   git clone https://github.com/lucas-castro-developer/cod3r-todo-app-react.git
-   ```
-   
+ ```sh
+ git clone https://github.com/lucas-castro-developer/cod3r-todo-app-react.git
+ ```
+
 2. Abra uma instância do seu terminal e entre na pasta `backend`
-   ```sh
-   cd backend
-   ```
-   
+ ```sh
+ cd backend
+ ```
+
 3. Instale as dependências
-   ```sh
-   npm install
-   ```
-   
+ ```sh
+ npm install
+ ```
+
 4. Certifique-se de que o MongoDB esteja aberto e execute o seguinte o comando:
-   ```sh
-   npm run dev
-   ```
-   
+ ```sh
+ npm run dev
+ ```
+
 5. Agora abra outra instância do seu terminal e entre na pasta `frontend`:
-   ```sh
-   cd frontend
-   ```
+ ```sh
+ cd frontend
+ ```
 
 6. Instale as dependências
-   ```sh
-   npm install
-   ```
-   
+ ```sh
+ npm install
+ ```
+
 7. Execute o comando abaixo:
-  ```sh
-  npm run dev
-  ```
-  
+```sh
+npm run dev
+```
+
 8. Pronto. Seu projeto estará funcionando tanto a nível de backend quanto frontend
-   
+
 ## Contribuição
 
 Quer contribuir com este projeto? Então siga os passos abaixo:
