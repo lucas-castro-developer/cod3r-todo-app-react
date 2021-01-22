@@ -21,21 +21,21 @@
   <summary>Conteúdos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o projeto</a>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
       <ul>
-        <li><a href="#built-with">Construído com</a></li>
+        <li><a href="#construído-com">Construído com</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Iniciando</a>
+      <a href="#iniciando">Iniciando</a>
       <ul>
-        <li><a href="#prerequisites">Pré-requisitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#Contribuição">Contributing</a></li>
-    <li><a href="#Licença">License</a></li>
-    <li><a href="#Contato">Contact</a></li>
+    <li><a href="#Contribuição">Contribuição</a></li>
+    <li><a href="#Licença">Licença</a></li>
+    <li><a href="#Contato">Contato</a></li>
   </ol>
 </details>
 
